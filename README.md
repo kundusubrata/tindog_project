@@ -1,2 +1,2 @@
 # tindog_project
-This is the gog purchasing Website. I made it using bootstrap.
+This is the dog purchasing Website. I made it using bootstrap.
